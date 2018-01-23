@@ -17,7 +17,7 @@ A repository with the bare minimum to start a react web application development.
 Check -g and local node -v is ^8
 ```
   $ npm i
-  $ $ npm i -g firebase-tools
+  $ npm i -g firebase-tools
   $ firebase init
 ```
 
