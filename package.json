@@ -9,14 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/partnerhero/react-starter"
+    "url": "https://github.com/andrewredican/react-starter"
   },
   "keywords": [
-    "partnerhero",
+    "ajrm",
+    "andrewredican",
     "react",
     "webpack"
   ],
-  "author": "PartnerHero",
+  "author": "AndrewRedican",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.17.1",
